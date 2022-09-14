@@ -1,3 +1,3 @@
-# tester
+# dodatkowy tester 
 
-sam jestem ciekaw czy działa
+teraz sprawdzamy jak działa dodatkowy branch
